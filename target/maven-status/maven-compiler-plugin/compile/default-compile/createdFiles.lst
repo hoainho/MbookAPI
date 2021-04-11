@@ -1,0 +1,8 @@
+mbook\API\entity\UserEntity.class
+mbookAPI\api\NewAPI.class
+mbook\API\entity\NewEntity.class
+mbook\API\entity\RoleEntity.class
+mbook\API\entity\CategoryEntity.class
+mbookAPI\api\Application.class
+mbookAPI\dto\NewDTO.class
+mbook\API\entity\BaseEntity.class

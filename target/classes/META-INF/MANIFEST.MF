@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nhoxt
+Build-Jdk: 15.0.2
+Implementation-Title: mbookAPI
+Implementation-Version: 1.0
+Implementation-Vendor-Id: hoainho.github.io
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/mbookAPI/
+Created-By: Maven Integration for Eclipse
+
